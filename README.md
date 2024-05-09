@@ -1,16 +1,19 @@
-# hello_flutter
 
-A new Flutter project.
+## Project description
+This is a simple application that can be used as a diary.
 
-## Getting Started
+## Installation
 
-This project is a starting point for a Flutter application.
+To run you must have flutter ide vs code or android studio.
 
-A few resources to get you started if this is your first Flutter project:
+## Usage
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+How to use the application?
+1) To plan your day, you just need to click on the button with the + sign.
+2) A dialogue widget with textfield appears. Write time and task
+3) Click the add button. And it is saved in the task list.
+4) To delete a task. Just click on the delete icon
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Authors
+
+Eminov Nursultan
