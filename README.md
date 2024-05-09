@@ -17,3 +17,5 @@ How to use the application?
 ## Authors
 
 Eminov Nursultan
+![Screenshot](https://github.com/nurseminov/Neobis_Flutter_Hello_Flutter/blob/main/%D1%8D%D0%BC%D1%83%D0%BB%D1%8F%D1%82%D0%BE%D1%80.PNG)
+![Screenshot](https://github.com/nurseminov/Neobis_Flutter_Hello_Flutter/blob/main/emulator2.PNG)
